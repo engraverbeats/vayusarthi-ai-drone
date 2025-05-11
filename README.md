@@ -70,12 +70,9 @@ vayusarthi-ai-drone/
 
 ---
 
-## 👨‍💻 Contributors
-- Ayush Ranjan (AI & Drone Systems)
-- Team VayuSarthi – SIH 2024 Public Safety Category
+## 👨‍💻TEAM PROJECT
+- Ayush Ranjan
+- Ashish Kumar
+- Mayank Raj
 
 ---
-
-## 📜 License
-
-MIT License
